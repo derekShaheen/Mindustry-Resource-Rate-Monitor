@@ -11,15 +11,7 @@ This mod enhances the user interface of the game by displaying resource rate cha
 - Updates the display every second to show real-time changes.
 - Formats large numbers for better readability (e.g., 102345 becomes 102.3k).
 
-### Videos
-
-[![Watch the video](media/Screenshot%202024-05-25%20020010.png)](media/2024-05-25%2002-04-32.mkv)
-[![Watch the video](media/Screenshot%202024-05-25%20015842.png)](media/2024-05-25%2002-00-43.mkv)
-
-### Screenshots
-
 ![Screenshot](media/Screenshot%202024-05-25%20015842.png)
-![Screenshot](media/Screenshot%202024-05-25%20010410.png)
 
 ## Installation
 
