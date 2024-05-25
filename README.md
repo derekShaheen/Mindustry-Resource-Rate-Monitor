@@ -15,9 +15,7 @@ This mod enhances the user interface of the game by displaying resource rate cha
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/resourceratedisplay/releases) page.
-2. Extract the contents into your game's mods directory.
-3. Launch the game and enable the mod from the mods menu.
+1. Install via the menus in Mindustry
 
 ## Usage
 
