@@ -1,0 +1,9 @@
+{
+    "name": "resource-rate-monitor",
+    "displayName": "[orange]Resource Rate Monitor",
+    "author": "Skrip",
+    "description": "Simply allows you to monitor your resource rate changes in real time.",
+    "version": "0.1",
+    "minGameVersion": "136",
+    "hidden": true
+}
