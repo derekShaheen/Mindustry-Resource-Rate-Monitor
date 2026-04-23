@@ -1,0 +1,17 @@
+{
+    name: resource-rate-monitor
+    displayName: "[orange]Resource Rate Monitor"
+    author: Skrip
+    description: '''
+    Monitor your resource rate changes in real time.
+
+    Features:
+    - Color-coded rate display: [#8585FF]gaining[], [red]losing[], [white]stable[]
+    - [red](!)[] Low-stock warning when a resource is under 10 seconds from depletion
+    - [yellow]Flicker detection[] for resources being consumed as fast as they arrive (~00)
+    - Click the resource table to cycle column count (4-8)
+    - Compact number formatting (1.5k, 2.3M, etc.)
+    '''
+    version: "0.3"
+    minGameVersion: 136
+}
